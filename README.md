@@ -2,8 +2,10 @@
 - Grande fã de C
 - Programação Back-end (raiz)
 - O básico do linux
+- Eu desenho
 
-<img width="631" height="355" alt="CnP_21112026_142630-removebg-preview" src="https://github.com/user-attachments/assets/dd44e4b6-8a19-4c01-978d-082b41a1150a" />
+<img width="1920" height="1080" alt="linuxfix" src="https://github.com/user-attachments/assets/0c70e385-823e-4bfd-a523-5f4a2e8504e0" />
+
 
 
 <!--
