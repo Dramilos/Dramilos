@@ -1,3 +1,4 @@
+# Eu sou o Dramilos o seu amiguinho
 ## Brevemente
 - Grande fã de C
 - Programação Back-end (raiz)
@@ -6,7 +7,11 @@
 
 <img width="380" height="280" alt="penguins" src="https://github.com/user-attachments/assets/61809cc4-bd7e-4d69-9b73-2a1fb4eb78f8" />
 
-
+## Atualmente estudando
+- Estruturas de dados
+- Programação orientada à objeto
+- Desenvolvimento back-end
+- Código de máquina
 
 
 
