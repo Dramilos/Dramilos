@@ -4,7 +4,8 @@
 - O básico do linux
 - Eu desenho
 
-<img width="380" height="280" alt="penguins" src="https://github.com/user-attachments/assets/bfa6bade-d043-4856-a283-656bff8a62ba" />
+<img width="380" height="280" alt="penguins" src="https://github.com/user-attachments/assets/61809cc4-bd7e-4d69-9b73-2a1fb4eb78f8" />
+
 
 
 
