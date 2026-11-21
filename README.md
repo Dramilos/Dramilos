@@ -1,4 +1,10 @@
-## Hi there 👋
+## Brevemente
+- Grande fã de C
+- Programação Back-end (raiz)
+- O básico do linux
+
+<img width="631" height="355" alt="CnP_21112026_142630-removebg-preview" src="https://github.com/user-attachments/assets/dd44e4b6-8a19-4c01-978d-082b41a1150a" />
+
 
 <!--
 **Dramilos/Dramilos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
